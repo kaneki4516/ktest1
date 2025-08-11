@@ -1,0 +1,3 @@
+[submodule "lib_k2"]
+	path = lib_k2
+	url = ./lib_k2
